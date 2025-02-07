@@ -1,0 +1,35 @@
+#support-wrapper{
+    background-color: #387ed1;
+    height: 65vh;
+}
+#support-portal {
+    
+    display: flex;
+    justify-content: space-between; 
+    margin: 0px 100px;   
+    color: white;    
+}
+#support-portal a {
+    color:white; 
+}
+#support-search{
+    color:white;
+    margin-left: 100px;
+}
+#support-search input{
+    width:85%;
+    padding:10px 20px;
+    border:none;
+    border-radius: 10px;
+    margin-top: 18px;  
+}
+#support-links a{
+    color :white;
+    font-size: large;
+    line-height: 1.5;
+}
+#support-links ol li a{
+    color :white;
+    font-size: larger;
+    line-height: 1.5; 
+}
